@@ -6,7 +6,7 @@
 
 An end-to-end Machine Learning web application utilizing Scikit-Learn data processing pipelines and Streamlit to predict annual medical insurance expenses based on individual user demographic profiles.
 
-🔗 **Live Deployment Link:** [View Live Web Application on Streamlit Cloud](https://your-custom-app-name.streamlit.app)
+🔗 **Live Deployment Link:** [View Live Web Application on Streamlit Cloud](https://insurance-cost-predictor-jsbqbgagg6mhepm5vbjuue.streamlit.app/)
 
 ---
 
